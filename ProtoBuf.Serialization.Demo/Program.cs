@@ -1,6 +1,7 @@
 ﻿using BenchmarkDotNet.Running;
 using System;
 using System.IO;
+using System.Text.Json;
 
 namespace ProtoBuf.Serialization.Demo
 {
